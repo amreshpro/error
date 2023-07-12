@@ -1,0 +1,25 @@
+html,body,#root{
+   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #e995fa;
+}
+
+#root {
+    background: #e995fa;
+    position:fixed;
+
+}
+
+
+#webgl{
+    background: #e995fa !important;
+    position: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+ 
+
+
